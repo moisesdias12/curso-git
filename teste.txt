@@ -1,6 +1,1 @@
-AAAAAAAAAAAAAAAAAAAAA
-esse texto
-eh do teste
-
-
-teste para diff
+editado no git
